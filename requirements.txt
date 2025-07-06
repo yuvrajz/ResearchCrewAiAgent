@@ -1,5 +1,5 @@
 streamlit
-crewai
+crewai==0.16.3
 langchain
 transformers
 huggingface_hub
