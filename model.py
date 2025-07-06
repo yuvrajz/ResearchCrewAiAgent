@@ -1,4 +1,4 @@
-from langchain_community.llms import HuggingFaceHub
+from langchain_community.llms import HuggingFaceEndpoint
 
 def load_mistral():
     return HuggingFaceHub(
