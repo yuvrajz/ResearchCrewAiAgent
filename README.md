@@ -7,7 +7,6 @@ It simulates a mini research team that collaborates to summarize a research pape
 - ✅ Uses 4 AI agents (summary, blogging, marketing)
 - ✅ Powered by open-source model: `mistralai/Mistral-7B-Instruct`
 - ✅ Streamlit-based web interface (no API keys or OpenAI needed)
-- ✅ Fully valid for **CrewAI Certification** 🏅
 
 ## 🤖 Agents Used
 
